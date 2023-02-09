@@ -13,7 +13,8 @@ The page is live at https://csullins.github.io/My-02-Challenge/ and the index.ht
 The page can be used to navigate the different offerings of the company. A user can click on any of the links in the heading to quickly jump to the main content sections.
 ```
 ## Mock Up
-./assets/images/horiseon-mock-up.png
+
+![Mock-Up Image](https://github.com/csullins/My-02-Challenge/blob/main/assets/images/horiseon-mock-up.png?raw=true)
 
 ## License
 
