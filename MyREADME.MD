@@ -14,7 +14,7 @@ The page can be used to navigate the different offerings of the company. A user 
 ```
 ## Mock Up
 
-![Mock-Up Image](https://github.com/csullins/My-02-Challenge/blob/main/assets/images/horiseon-mock-up.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon-mock-up.png)
 
 ## License
 N/A
