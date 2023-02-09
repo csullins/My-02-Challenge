@@ -14,8 +14,7 @@ The page can be used to navigate the different offerings of the company. A user 
 ```
 ## Mock Up
 
-![Mock-Up Image](https://github.com/csullins/My-02-Challenge/blob/main/assets/images/horiseon-mock-up.png?raw=true)
+![Mock-Up Image](https://github.com/csullins/My-02-Challenge/blob/main/assets/images/horiseon-mock-up.png)
 
 ## License
-
 N/A
